@@ -1,7 +1,7 @@
 # SIT215-Final-Project
 This repository contains the code related to the Deakin SIT215 Investigating Reinforcement Learning Project.
 
-#Agents and Environments
+# Agents and Environments
 Three agents have been developed:
 
 Random Agent
@@ -26,5 +26,6 @@ Frozen Lake, Random Agent
 Frozen Lake, QLearner Agent
 Frozen Lake, TDLearner Agent
 
-#Usage:
+# Usage
+
 
